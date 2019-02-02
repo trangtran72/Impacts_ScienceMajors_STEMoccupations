@@ -32,4 +32,4 @@ The extracted dataset is from the *Center for Economic and Policy Research*.
 
 `TestCollegeGPA.Rmd` The R script that I created to build and test my model of interest
 
-`PredictiveModeling.pptx` This file contains the results of the project, and its supported visualizations. The result was given in a presentation for MATH 215 at Denison University
+`ResearchPaper_Abstract_Intro.docx` This file contains the abstract and introduction for the research paper written from this analysis. Contact for more information about this research paper
