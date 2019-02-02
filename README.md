@@ -25,18 +25,10 @@ The extracted dataset is from the *Center for Economic and Policy Research*.
 
 [Link](http://ceprdata.org/acs-uniform-data-extracts/) to the extracted dataset and documentation.
 
-**Cleaned dataset**
 
-`all-ages.csv`
-This [file](https://github.com/fivethirtyeight/data/blob/master/college-majors/all-ages.csv) contains the first cleaned dataset from FiveThirtyEight
+**Analysis**
 
-`women-stem.csv`
-This [file](https://github.com/fivethirtyeight/data/blob/master/college-majors/women-stem.csv) contains the second cleaned dataset from FiveThirtyEight. *ShareOfWomen* was added
-
-
-`salary_edited.csv` My version of the data, combined from all-ages.csv and  . Added a new variable called *Engineering*, which takes value 1 if the major falls under category *Engineering*, and 0 otherwise.
-
-**Result**
+`Analysis.do` The STATA code that clean the data and transform the variables, build models, and conduct hypothesis testings
 
 `TestCollegeGPA.Rmd` The R script that I created to build and test my model of interest
 
