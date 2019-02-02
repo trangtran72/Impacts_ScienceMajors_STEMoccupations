@@ -1,0 +1,2 @@
+# Impacts_ScienceMajors_STEMoccupations
+Stereotype about intellectual ability, in addition to occupational prestige, especially when it comes to gender prestige at work, has long been believed to be one of the real roots of the wage gap. In this project, I attempted to empirically explain the difference in the total person’s income of science versus non-science majors, STEM versus non-STEM workers, and whether the two factors play an important role in narrowing the gender wage gap for women, after controlling for different individuals’ and households’ characteristics. 
