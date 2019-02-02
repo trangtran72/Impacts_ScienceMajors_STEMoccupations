@@ -30,6 +30,6 @@ The extracted dataset is from the *Center for Economic and Policy Research*.
 
 `Analysis.do` The STATA code that clean the data and transform the variables, build models, and conduct hypothesis testings
 
-`TestCollegeGPA.Rmd` The R script that I created to build and test my model of interest
+**Result**
 
 `ResearchPaper_Abstract_Intro.docx` This file contains the abstract and introduction for the research paper written from this analysis. Contact for more information about this research paper
